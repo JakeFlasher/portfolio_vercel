@@ -43,7 +43,7 @@
           >.
         </li>
         <li>
-          🍭 XJTU Alumni, <a href="<%= BASE_URL %>tet.pdf" target="_blank" rel="noopener noreferrer">The Honors Youth Program</a>(🇨🇳
+          🍭 XJTU Alumni, <a href="public/tet.pdf" target="_blank" rel="noopener noreferrer">The Honors Youth Program</a>(🇨🇳
           <a href="http://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a
           >), <i>BSc in CS</i>.
         </li>
