@@ -30,30 +30,30 @@
       <h2>Academics</h2>
       <ul>
         <li>
-          🙇 Postgraduate student at UofG (🇬🇧
-          <a href="https://www.gla.ac.uk/" target="_blank" rel="noopener noreferrer">University of Glasgow</a>), 1/2021
+          🙇 Postgraduate student at HKUST (🇬🇧
+          <a href="https://hkust.edu.hk/home" target="_blank" rel="noopener noreferrer">The Hong Kong University of Science and Technology</a>), 2021-Fall
           entry,
           <i
             ><a
-              href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/"
+              href="https://ece.hkust.edu.hk/phdeas"
               target="_blank"
               rel="noopener noreferrer"
-              >MSc in CS</a
+              >PhD(EAS) in ECE</a
             ></i
           >.
         </li>
         <li>
-          🍭 BIT Alumni (🇨🇳
-          <a href="http://www.bit.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing Institute of Technology</a
+          🍭 XJTU Alumni (🇨🇳
+          <a href="http://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a
           >), <i>BSc in CS</i>.
         </li>
-        <li>🔭 <b>Fields of interest:</b> Adversarial examples / AI vulnerability.</li>
+        <li>🔭 <b>Fields of interest:</b> Computer Systems and Architecture.</li>
       </ul>
 
       <h2>Devices</h2>
       <ul>
-        <li>⚫ ThinkPad X1 Carbon 7th Gen</li>
-        <li>🔵 iPhone 12 / iPad Air 3 / AirPods Pro</li>
+        <li>⚫ Arch Linux Laptop / KDE Ubuntu Desktop </li>
+        <li>🔵 iPhone 12 ProMax</li>
       </ul>
 
       <h2>How can we trust you!</h2>
