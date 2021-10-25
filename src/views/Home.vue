@@ -30,8 +30,8 @@
       <h2>Academics</h2>
       <ul>
         <li>
-          🙇 Postgraduate student at HKUST (🇬🇧
-          <a href="https://hkust.edu.hk/home" target="_blank" rel="noopener noreferrer">The Hong Kong University of Science and Technology</a>), 2021-Fall
+          🙇 Postgraduate student at HKUST (🇭🇰
+          <a href="https://hkust.edu.hk/home" target="_blank" rel="noopener noreferrer">HKUST</a>), 2021-Fall
           entry,
           <i
             ><a
