@@ -1,30 +1,33 @@
 <template>
   <div class="container">
     <div id="name-container">
-      <img id="avatar" src="./../assets/images/av.png" alt="avatar" />
-      <h1>Spencer Woo</h1>
+      <img id="avatar" src="./../assets/images/240kb.png" alt="avatar" />
+      <h1>Chengao Shi</h1>
     </div>
     <div class="title-desc-container">
-      <a id="github" href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer"
+      <a id="github" href="https://github.com/JakeFlasher" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/github.svg" />Developer</a
       >
       <span>/</span>
-      <a id="sspai" href="https://sspai.com/u/spencerwoo/posts" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/sspai.svg" />Writer</a
+      <a id="sspai" href="https://weixin.qq.com/f/EPGtx4Q50GV79hLsIm2dgS4" target="_blank" rel="noopener noreferrer"
+        ><img class="title-font" src="./../assets/images/sspai.svg" />Climber</a
       >
       <span>/</span>
-      <a id="blog" href="https://blog.spencerwoo.com" target="_blank" rel="noopener noreferrer"
+      <a id="blog" href="https://www.zhihu.com/follow" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/zeit.svg" />Blogger</a
       >
     </div>
     <div class="article">
-      <h2>ABOUT ME</h2>
+      <h2>About Me</h2>
       <p>
-        I'm <i>Chengao Shi</i> with the ID <i>spencerwoo</i>. Some other variations:
+        I'm <i>Chengao SHI</i> born in Suzhou, China, a dedicated coder & climber currently pursuing my PhD degree at <i>The Hong Kong University of Science and Technology</i>(HKUST), supervised by Prof.<i>Jiang XU</i>, in <a href="https://eexu.home.ece.ust.hk/BDSL.html" target="_blank" rel="noopener noreferrer">BDSL</a> team. 
+
+        
+        <!-- <i>spencerwoo</i>. Some other variations:
         <a href="https://twitter.com/realSpencerWoo" target="_blank" rel="noopener noreferrer">@realSpencerWoo</a> /
         <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@SpencerWoo</a> /
         <a href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer">@spencerwooo</a>. You may
-        know me from GitHub / Jike / SSPAI or other places. Yes, those are also me.
+        know me from GitHub / Jike / SSPAI or other places. Yes, those are also me. -->
       </p>
 
       <h2>Academics</h2>
@@ -45,7 +48,7 @@
         <li>
           🍭 XJTU Alumni, <a href="public/tet.pdf" target="_blank" rel="noopener noreferrer">The Honors Youth Program</a>(🇨🇳
           <a href="http://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a
-          >), <i>BSc in CS</i>.
+          >), 2017-Fall entry, <i>BSc in CS</i>.
         </li>
         <li>🔭 <b>Fields of interest:</b> Computer Systems and Architecture.</li>
       </ul>
@@ -56,7 +59,7 @@
         <li>🔵 iPhone 12 ProMax</li>
       </ul>
 
-      <h2>How can we trust you!</h2>
+      <h2>For more info</h2>
       <p>
         I have verified my identity with a GPG signature which proves my ownership of this domain. (See the cryptography
         proof here:
@@ -78,7 +81,7 @@
       <ul>
         <li>
           <b>Email：</b>
-          <a href="mailto:spencer.wushangbo@gmail.com">spencer.wushangbo#gmail.com</a><i> (Preferred)</i>
+          <a href="mailto:cshiai@connect.ust.hk">cshiai#connect.ust.hk</a><i> (Preferred)</i>
         </li>
       </ul>
     </div>
@@ -138,3 +141,4 @@
   color: #0070f3;
 }
 </style>
+
