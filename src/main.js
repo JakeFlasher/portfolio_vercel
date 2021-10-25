@@ -5,6 +5,8 @@ import VueRouter from 'vue-router'
 import Home from './views/Home.vue'
 import Projects from './views/Projects.vue'
 import Social from './views/Social.vue'
+import CV from './views/CV.vue'
+import hyouth from './views/hyouth.vue'
 import NotFound from './views/NotFound.vue'
 
 import './assets/styles/base.css'
