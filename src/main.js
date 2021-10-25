@@ -30,6 +30,8 @@ const router = new VueRouter({
     { path: '/', component: Home },
     { path: '/projects', component: Projects },
     { path: '/social', component: Social },
+    { path: '/CV', component: CV },
+    { path: '/hyouth', component: hyouth },
 
     // Not found
     { path: '/*', component: NotFound }

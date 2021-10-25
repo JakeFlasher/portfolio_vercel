@@ -55,7 +55,7 @@ export default {
           {
             type: 'link',
             text: 'CV',
-            path: '/',
+            path: '/CV',
           },
           // {
           //   type: 'link',

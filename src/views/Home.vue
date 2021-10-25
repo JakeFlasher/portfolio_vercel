@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div id="name-container">
-      <img id="avatar" src="./../assets/images/240kb.png" alt="avatar" />
+      <img id="avatar" src="./../assets/images/240kb.png" height="200" width="200" alt="avatar" />
       <h1>Chengao Shi</h1>
     </div>
     <div class="title-desc-container">
@@ -20,7 +20,7 @@
     <div class="article">
       <h2>About Me</h2>
       <p>
-        I'm <i>Chengao SHI</i> born in Suzhou, China, a dedicated coder & climber currently pursuing my PhD degree at <i>The Hong Kong University of Science and Technology</i>(HKUST), supervised by Prof.<i>Jiang XU</i>, in <a href="https://eexu.home.ece.ust.hk/BDSL.html" target="_blank" rel="noopener noreferrer">BDSL</a> team. 
+        I'm <i>Chengao SHI</i> born in Suzhou, China, a dedicated coder & climber currently pursuing my PhD degree at <i>The Hong Kong University of Science and Technology</i>(HKUST), supervised by <i>Prof.Jiang XU</i>, in <a href="https://eexu.home.ece.ust.hk/BDSL.html" target="_blank" rel="noopener noreferrer">BDSL</a> team. 
 
         
         <!-- <i>spencerwoo</i>. Some other variations:
@@ -46,14 +46,14 @@
           >.
         </li>
         <li>
-          🍭 XJTU Alumni, <a href="public/tet.pdf" target="_blank" rel="noopener noreferrer">The Honors Youth Program</a>(🇨🇳
+          🍭 XJTU Alumni, <a href="/hyouth" target="_blank" rel="noopener noreferrer">The Honors Youth Program</a>(🇨🇳
           <a href="http://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a
-          >), 2017-Fall entry, <i>BSc in CS</i>.
+          >), <i>BSc in CS</i>.
         </li>
-        <li>🔭 <b>Fields of interest:</b> Computer Systems and Architecture.</li>
+        <li>🔭 <b>Fields of interest: </b> Computer Systems and Architecture.</li>
       </ul>
 
-      <h2>Devices</h2>
+      <h2>Experiences</h2>
       <ul>
         <li>⚫ Arch Linux Laptop / KDE Ubuntu Desktop </li>
         <li>🔵 iPhone 12 ProMax</li>
