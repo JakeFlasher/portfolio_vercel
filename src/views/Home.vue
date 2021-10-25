@@ -18,9 +18,9 @@
       >
     </div>
     <div class="article">
-      <h2>WHO AM I</h2>
+      <h2>ABOUT ME</h2>
       <p>
-        I'm <i>Spencer Woo</i> with the ID <i>spencerwoo</i>. Some other variations:
+        I'm <i>Chengao Shi</i> with the ID <i>spencerwoo</i>. Some other variations:
         <a href="https://twitter.com/realSpencerWoo" target="_blank" rel="noopener noreferrer">@realSpencerWoo</a> /
         <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@SpencerWoo</a> /
         <a href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer">@spencerwooo</a>. You may
@@ -43,7 +43,7 @@
           >.
         </li>
         <li>
-          🍭 XJTU Alumni (🇨🇳
+          🍭 XJTU Alumni, <a href="<%= BASE_URL %>tet.pdf" target="_blank" rel="noopener noreferrer">The Honors Youth Program</a>(🇨🇳
           <a href="http://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a
           >), <i>BSc in CS</i>.
         </li>

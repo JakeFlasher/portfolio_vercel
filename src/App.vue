@@ -44,9 +44,24 @@ export default {
         menuOptionsRight: [
           {
             type: 'link',
-            text: 'HOME',
+            text: 'Home',
             path: '/',
           },
+          {
+            type: 'link',
+            text: 'Publications',
+            path: '/',
+          },
+          {
+            type: 'link',
+            text: 'CV',
+            path: '/',
+          },
+          // {
+          //   type: 'link',
+          //   text: 'HOME',
+          //   path: '/',
+          // },
           {
             type: 'link',
             text: 'PROJECTS',
